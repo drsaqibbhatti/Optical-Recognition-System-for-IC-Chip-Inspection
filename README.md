@@ -5,8 +5,6 @@ Industrial computer vision system for **IC chip inspection** that detects the ta
 Project page (demo + overview):  
 https://drsaqibbhatti.com/projects/ic-chip-ocr.html
 
-GitHub:  
-https://github.com/drsaqibbhatti/Optical-Recognition-System-for-IC-Chip-Inspection
 
 ---
 
